@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "pipe-demo": {
@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "pipe-demo"
+    }
+  },
+  "defaultProject": "pipe-demo",
+  "cli": {
+    "analytics": "a662c4d3-5070-49f6-8fde-7ca5c7995bb8"
+  }
 }
